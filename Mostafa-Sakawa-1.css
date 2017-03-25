@@ -630,7 +630,7 @@ text-align: center;
 top: 0;
 width: 7em;
 right: 0;
-background: #482c80;
+background: #000;
 z-index: 9999
 }
 #header h1, #header h2, #header h3, #header h4, #header h5, #header h6 {
@@ -694,7 +694,7 @@ padding: 0;
 -ms-transition: none;
 transition: none;
 border: 0;
-color: rgba(0, 0, 0, 0.42)!important;
+color: rgba(255, 255, 255, 0.4) !important;
 display: block;
 padding: 0.85em 0;
 text-decoration: none;
@@ -714,7 +714,7 @@ transform: translateX(-50%);
 top: 1.3em;
 }
 #header > nav ul li a svg *{
-stroke:rgba(0, 0, 0, 0.42);
+stroke: rgba(255, 255, 255, 0.4);
 }
 #header > nav ul li a.active svg *,#header > nav ul li a:hover svg * {
 stroke: #FFF;
@@ -1210,7 +1210,7 @@ width: 160px;
 transition: all 500ms ease;
 }
 .proger .item:hover .thumbnail {
-background: #482c80;
+background: #000;
 }
 .proger .item img{
 display: block;
@@ -1239,7 +1239,7 @@ transition: all 500ms ease;
 }
 .proger .item:hover .view {
 font-size: 3em;
-color: #482c80;
+color: #000;
 } #four {
 padding: 40px 0;
 min-height: 100vh;
