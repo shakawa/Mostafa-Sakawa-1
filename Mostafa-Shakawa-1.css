@@ -629,8 +629,8 @@ position: fixed;
 text-align: center;
 top: 0;
 width: 7em;
-right: 0;
-background: #482c80;
+right: 0
+background: #000;
 z-index: 9999
 }
 #header h1, #header h2, #header h3, #header h4, #header h5, #header h6 {
